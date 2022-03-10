@@ -1,4 +1,6 @@
 {
+    "name": "celestial",
+    "license": "MIT",
     "dependencies": {
         "@project-serum/anchor": "^0.22.1"
     },
